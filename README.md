@@ -89,7 +89,6 @@ AUTO_MOD_WORDS=word1,word2,word3
 
 ```text
 .
-|-- .codesandbox/       # Cấu hình chạy trên CodeSandbox
 |-- .env.example        # File mẫu biến môi trường
 |-- .gitignore          # Danh sách file không đưa lên Git
 |-- index.html          # Giao diện client
