@@ -1,0 +1,19 @@
+{
+  "name": "modern-socket-chat",
+  "version": "0.0.1",
+  "description": "Modern Socket.IO chat app with SQLite persistence",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "sqlite": "^5.0.1",
+    "sqlite3": "^5.1.6"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  }
+}
